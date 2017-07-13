@@ -5,3 +5,4 @@
         "gateway_ID": "AA555A003A0581D1" /* you must pick a unique 64b number for each gateway (represented by an hex string) */
     }
 }
+
